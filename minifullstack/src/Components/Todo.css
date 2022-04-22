@@ -1,0 +1,18 @@
+.divTag{
+    border: 1px solid rgb(10, 10, 10,0.2);
+    
+    margin-top: 1px;
+    width: 50%;
+    margin: auto;
+    
+}
+.time{
+    font-size: 9px;
+}
+.delete{
+    background-color: rgb(7, 7, 7,0.9);
+    color: white;
+    border-radius: 16px;
+}
+
+
